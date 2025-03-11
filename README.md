@@ -46,7 +46,7 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
-![WhatsApp Image 2024-08-17 at 21 23 33_fe833b52](https://github.com/user-attachments/assets/f9da134e-374b-4e02-8a6d-b1de1b48d976)
+![image](https://github.com/user-attachments/assets/39a6bb9c-e65d-4833-b141-045190923bae)
 
 
 ### Procedure for Association Rules:
@@ -59,8 +59,9 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
-![WhatsApp Image 2024-08-17 at 22 45 29_ad0ff657](https://github.com/user-attachments/assets/150c0244-13d5-4294-a88f-5c62e8b7a94c)
+![image](https://github.com/user-attachments/assets/0dc6b4aa-3f69-40f8-a55d-af050f8e954a)
+
 
 
 ### Result: 
-Thus this program has been successfully executed.
+This program has been successfully executed.
